@@ -1,12 +1,12 @@
 title: My blog
-author: GitHub User
-email: your-email@domain.com
+author: oolaya1815
+email: adnbit1815@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Mi primer blog en github pages.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  oolaya1815 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 # tema
